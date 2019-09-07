@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 ```
-git clone https://github.com/anton-karlovskiy/node-server-adaptive-loading
+git clone https://github.com/anton-karlovskiy/node-server-adaptive-loading.git
 npm install
 npm run build
 npm run start-node
