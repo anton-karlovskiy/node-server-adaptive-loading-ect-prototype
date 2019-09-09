@@ -16,7 +16,7 @@ npm run start-node
 ```
 
 ## Deployment
-[Here](https://server-adaptive-loading-ect.firebaseapp.com/)
+[Here](https://server-adaptive-loading-ect.herokuapp.com/)
 
 ### deploy functions
 ```
